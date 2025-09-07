@@ -70,9 +70,9 @@ This project demonstrates a comprehensive approach to vendor performance analysi
 
 ##  Sample Visuals
 
-!\[Dashboard Preview]\(Dashboard Image.png)
+"C:\Users\gsdps\Downloads\Dashboard Image.png"
 
-*Note: Replace this image with an actual screenshot of your Power BI dashboard.*
+
 
 ##  Report Summary
 
