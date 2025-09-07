@@ -69,8 +69,7 @@ This project demonstrates a comprehensive approach to vendor performance analysi
   * Cost analysis
 
 ##  Sample Visuals
-
-"C:\Users\gsdps\Downloads\Dashboard Image.png"
+![Dashboard Preview](images/Dashboard%20Image.png)
 
 
 
