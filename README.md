@@ -68,8 +68,8 @@ This project demonstrates a comprehensive approach to vendor performance analysi
   * Delivery timelines
   * Cost analysis
 
-##  Sample Visuals
-![Dashboard Preview](images/Dashboard%20Image.png)
+
+ 
 
 
 
